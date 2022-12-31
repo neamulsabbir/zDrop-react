@@ -1,0 +1,35 @@
+
+.items-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
+.items-img{
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+    margin-left: 40%;
+}
+.cardComp-container{
+    display: grid;
+    grid-template-columns: repeat(3, 0fr);
+    grid-gap: 20px 10px;
+    
+}
+.items-carousel-container{
+    display: grid;
+    grid-template-columns: repeat(7,0fr);
+    justify-content: center;
+    border-radius: 10px;
+    margin-left: 45px;
+    margin-right: 45px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+.product-offer{
+    background-color: #FF0045;
+    border-radius: 10px 10px 10px 0;
+    display: inline;
+    color: white;
+    padding: 5px 10px;
+    margin: 10px 0;
+}
+
+

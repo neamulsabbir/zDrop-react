@@ -1,0 +1,21 @@
+.carousel-details{
+    padding: 8px;
+    width: 185px;
+    margin: 10px 0;
+}
+.carousel-details img{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}
+.carousel-pd-name{
+    font-size: 16px;
+    font-weight: 400;
+    height: 42px;
+}
+.carousel-bdt{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 0;
+}

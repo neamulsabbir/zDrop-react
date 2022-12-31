@@ -1,0 +1,31 @@
+{
+	"allProducts": [{
+		"sideImg": "https://cdn.zdrop.com.bd/cms_images/1668411358832.webp",
+		"offers": "zDrop Offers",
+		"name": "Largest Collection Of Mens Fashion",
+		"tittle": "Only for you",
+		"shopMore": "SHOP MORE NOW",
+		"shopUp": "@ SHop Upto 70% off",
+		"items": [{
+				"image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+				"title": "Picture 1"
+			},
+			{
+				"image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+				"title": "Picture 1"
+			},
+			{
+				"image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+				"title": "Picture 1"
+			},
+			{
+				"image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+				"title": "Picture 1"
+			},
+			{
+				"image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+				"title": "Picture 1"
+			}
+		]
+	}]
+}

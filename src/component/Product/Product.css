@@ -1,0 +1,40 @@
+.product-container{
+    width: 220px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 10px;
+}
+.product-container img{
+    width: 200px;
+    height: 200px;
+    padding: 10px 10px 0 10px;
+    border-radius: 15px 15px 0 0;
+    object-fit: cover;
+}
+.product-container p{
+    padding: 0 10px;
+}
+.product-name{
+    height: 10px;
+    font-weight: 500;
+}
+.product-price{
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+.product-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.product-btn button{
+    height: 30px;
+    width: 30px;
+    font-size: 25px;
+    font-weight: 700;
+    color: green;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    border: none;
+    margin-top: 53px;
+    margin-right: 10PX;
+    border-radius: 0 0 8PX 0;
+}

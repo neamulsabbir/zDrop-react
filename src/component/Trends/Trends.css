@@ -1,0 +1,74 @@
+.trends-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 30px 0 10px 0;
+    align-items: center;
+}
+/* .trends-container img{
+    
+} */
+.trends-container-image{
+    margin-left: 45%;
+}
+.mensfashion-container{
+    background-color:rgb(255, 255, 255) ;
+    border-radius: 10px;
+    width: 1450px;
+    margin-left: 35px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+.trends-container h2{
+    display: inline-block;
+    background-color: #FF0045;
+    padding: 4px 16px;
+    font-size: 16px;
+    border-radius: 50px 50px 50px 0;
+    color: white;
+    font-weight: 500;
+}
+.trends-details h1{
+    font-weight: 500;
+    color: #4d4d4d;
+    width: 50%;
+    margin: 10px 0;
+}
+
+.shop-more{
+    display: inline-block;
+    background-color: #FF0045;
+    padding: 4px 16px;
+    font-size: 16px;
+    border-radius: 0 50px 50px 50px;
+    color: white;
+    margin: 10px 0;
+}
+.shop-up{
+    margin-bottom: 10px;
+}
+.trends-side-img{
+    display: grid;
+    grid-template-columns: repeat(3,0fr);
+    grid-gap: 20px;
+}
+.trends-side-img img{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+}
+.mensfashion-container h4{
+    padding: 10px;
+}
+.mens-fashion{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    grid-gap: 20px;
+    padding: 0 20px 20px 20px;
+    
+}
+.mens-fashion img{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}
+.mens-fashion h3{
+    font-weight: 400;
+}

@@ -1,0 +1,268 @@
+[
+  {
+    "sideImg": "https://cdn.zdrop.com.bd/cms_images/1668411358832.webp",
+    "offers": "zDrop Offers",
+    "name": "Largest Collection Of Mens Fashion",
+    "title": "Largest Collection of Mens Fashion (1)",
+    "shopMore": "SHOP MORE NOW",
+    "shopUp": "@ SHop Upto 70% off",
+    "items": [
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+        "slug": "mens-jeans",
+        "jeans_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1667274104743.webp",
+            "name": "Crocodile Premium Chinos Pants",
+            "price": "2,140"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663407775631.webp",
+            "name": "Fabrilife Mens Premium Trouser-Fossill",
+            "price": 685
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411490572.webp",
+        "slug": "mens-jacket",
+        "jacket_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666514428537.webp",
+            "name": "Rain coat 100% Waterproof -black/ rain overcoat",
+            "price": 599
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666514428674.webp",
+            "name": "Rain coat 100% Waterproof -Dark Navy blue/ rain overcoat",
+            "price": 599
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411494171.webp",
+        "slug": "mens-shoes",
+        "shoes_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666434450865.webp",
+            "name": "Stylish Leather Belt Sandal For Men. Men Footwear/ Casual Footwear for Men/ Comfortable Sandal for Men",
+            "price": "1,180"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663655171247.webp",
+            "name": "Ash & Black Driving Club Loafer Leather Mens SB-S150",
+            "price": 1180
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411497549.webp",
+        "slug": "mens-bags",
+        "shoes_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666434450865.webp",
+            "name": "Stylish Leather Belt Sandal For Men. Men Footwear/ Casual Footwear for Men/ Comfortable Sandal for Men",
+            "price": "1,180"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663655171247.webp",
+            "name": "Ash & Black Driving Club Loafer Leather Mens SB-S150",
+            "price": 1180
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+        "slug": "mens-accessories",
+        "shoes_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666434450865.webp",
+            "name": "Stylish Leather Belt Sandal For Men. Men Footwear/ Casual Footwear for Men/ Comfortable Sandal for Men",
+            "price": "1,180"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663655171247.webp",
+            "name": "Ash & Black Driving Club Loafer Leather Mens SB-S150",
+            "price": 1180
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411503783.webp",
+        "slug": "mens-watches",
+        "shoes_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666434450865.webp",
+            "name": "Stylish Leather Belt Sandal For Men. Men Footwear/ Casual Footwear for Men/ Comfortable Sandal for Men",
+            "price": "1,180"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663655171247.webp",
+            "name": "Ash & Black Driving Club Loafer Leather Mens SB-S150",
+            "price": 1180
+          }
+        ]
+      }
+    ]
+  },
+  {"carouseel":{
+    "items": [
+      {
+        "image": "https://cdn.zdrop.com.bd/product_images/1667796685743.webp",
+        "name": "Imported fashionable and traditional man wear ZTM101",
+        "price": 1200,
+        "offer": 12,
+        "slug": "/imported-fashionable-and-traditional-man-wear-ztm101-0549861"
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/product_images/1667797365141.webp",
+        "name": "Imported fashionable and traditional man wear ZTM101",
+        "price": 1200,
+        "offer": 12,
+        "slug": "/imported-fashionable-and-traditional-man-wear-ztm101-0549861"
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/product_images/1667628069637.webp",
+        "name": "Imported fashionable and traditional man wear ZTM101",
+        "price": 1200,
+        "offer": 12,
+        "slug": "/imported-fashionable-and-traditional-man-wear-ztm101-0549861"
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/product_images/1667628239694.webp",
+        "name": "Fabrilife Mens Urban Edition Premium Full Sleeve t-shirt - Inspired",
+        "price": 1200,
+        "offer": 12,
+        "slug": "/imported-fashionable-and-traditional-man-wear-ztm101-0549861"
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/product_images/1663407763578.webp",
+        "name": "Fabrilife Mens Premium T-shirt - Unparallel",
+        "price": 1200,
+        "offer": 12,
+        "slug": "/imported-fashionable-and-traditional-man-wear-ztm101-0549861"
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/product_images/1663407860592.webp",
+        "name": "Olive Green Sweatshirt",
+        "price": 1200,
+        "offer": 12,
+        "slug": "/imported-fashionable-and-traditional-man-wear-ztm101-0549861"
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/product_images/1663408016464.webp",
+        "name": "Flamingo Sweatshirt",
+        "price": 1200,
+        "offer": 12,
+        "slug": "/imported-fashionable-and-traditional-man-wear-ztm101-0549861"
+      }
+    ]
+  }
+  },
+  {
+    "sideImg": "https://cdn.zdrop.com.bd/cms_images/1668411358832.webp",
+    "offers": "zDrop Offers",
+    "name": "Largest Collection Of Mens Fashion",
+    "title": "Largest Collection of Mens Fashion (1)",
+    "shopMore": "SHOP MORE NOW",
+    "shopUp": "@ SHop Upto 70% off",
+    "items": [
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+        "slug": "mens-jeans",
+        "jeans_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1667274104743.webp",
+            "name": "Crocodile Premium Chinos Pants",
+            "price": "2,140"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663407775631.webp",
+            "name": "Fabrilife Mens Premium Trouser-Fossill",
+            "price": 685
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+        "slug": "mens-jacket",
+        "jacket_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666514428537.webp",
+            "name": "Rain coat 100% Waterproof -black/ rain overcoat",
+            "price": 599
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666514428674.webp",
+            "name": "Rain coat 100% Waterproof -Dark Navy blue/ rain overcoat",
+            "price": 599
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+        "slug": "mens-shoes",
+        "shoes_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666434450865.webp",
+            "name": "Stylish Leather Belt Sandal For Men. Men Footwear/ Casual Footwear for Men/ Comfortable Sandal for Men",
+            "price": "1,180"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663655171247.webp",
+            "name": "Ash & Black Driving Club Loafer Leather Mens SB-S150",
+            "price": 1180
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+        "slug": "mens-bags",
+        "shoes_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666434450865.webp",
+            "name": "Stylish Leather Belt Sandal For Men. Men Footwear/ Casual Footwear for Men/ Comfortable Sandal for Men",
+            "price": "1,180"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663655171247.webp",
+            "name": "Ash & Black Driving Club Loafer Leather Mens SB-S150",
+            "price": 1180
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+        "slug": "mens-accessories",
+        "shoes_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666434450865.webp",
+            "name": "Stylish Leather Belt Sandal For Men. Men Footwear/ Casual Footwear for Men/ Comfortable Sandal for Men",
+            "price": "1,180"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663655171247.webp",
+            "name": "Ash & Black Driving Club Loafer Leather Mens SB-S150",
+            "price": 1180
+          }
+        ]
+      },
+      {
+        "image": "https://cdn.zdrop.com.bd/cms_images/1668411486040.webp",
+        "slug": "mens-watches",
+        "shoes_info": [
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1666434450865.webp",
+            "name": "Stylish Leather Belt Sandal For Men. Men Footwear/ Casual Footwear for Men/ Comfortable Sandal for Men",
+            "price": "1,180"
+          },
+          {
+            "image": "https://cdn.zdrop.com.bd/product_images/1663655171247.webp",
+            "name": "Ash & Black Driving Club Loafer Leather Mens SB-S150",
+            "price": 1180
+          }
+        ]
+      }
+    ]
+  }
+]

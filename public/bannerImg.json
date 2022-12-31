@@ -1,0 +1,12 @@
+[
+  {
+    "id" : 1,
+    "type" : "top_banner",
+    "top_banner": "https://cdn.zdrop.com.bd/cms_images/1664862806690.webp"
+  },
+  {
+    "id" : 2,
+    "type" : "middle_banner",
+    "top_banner": "https://cdn.zdrop.com.bd/cms_images/1668688076693.webp"
+  }
+]
